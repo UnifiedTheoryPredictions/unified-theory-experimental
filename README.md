@@ -81,7 +81,7 @@ This repository provides complete, ready-to-use protocols for experimental testi
 
 ## 📄 License
 
-MIT License - see (LICENSE) file for details.
+MIT License - see [LICENSE] file for details.
 
 ---
 
