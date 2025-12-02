@@ -302,11 +302,11 @@ def plot_analysis(mass, data, errors, bg, signal, fit_result=None):
         axes[1, 1].axis('off')
         text = "Fit Results:\n\n"
         for i, (name, sig) in enumerate(fit_result["significance"]):
-            text += f"{name}: {sig:.1f}σ\n"
+            text += f"{name}: {sig:.1f} sigma\n"
         
         if fit_result["significance"]:
             max_sig = max([sig for _, sig in fit_result["significance"]])
-            text += f"\nMaximum significance: {max_sig:.1f}σ\n"
+            text += f"\nMaximum significance: {max_sig:.1f} sigma\n"
         
         # Add theory predictions
         text += "\nTheory Predictions:\n"
@@ -350,7 +350,7 @@ def main():
     local_sigs = calculate_significance_local(data, bg)
     for name, sig in local_sigs.items():
         pred = PREDICTIONS[name]
-        print(f"   • {name} ({pred['center']/1000:.1f} TeV): {sig:.1f}σ")
+        print(f"   • {name} ({pred['center']/1000:.1f} TeV): {sig:.1f} sigma")
     
     # Step 3: Fit for resonances
     print("\n3. Fitting for resonances...")
@@ -359,7 +359,7 @@ def main():
     if fit_result["success"]:
         print("   • Fit successful!")
         for name, sig in fit_result["significance"]:
-            print(f"   • {name}: {sig:.1f}σ")
+            print(f"   • {name}: {sig:.1f} sigma")
     else:
         print(f"   • Fit failed: {fit_result.get('error', 'Unknown error')}")
     
@@ -385,7 +385,7 @@ def main():
     
     # Save fit results
     if fit_result["success"]:
-        with open('fit_results.txt', 'w') as f:
+        with open('fit_results.txt', 'w', encoding='utf-8') as f:
             f.write("FIT RESULTS\n")
             f.write("===========\n\n")
             f.write("Parameters:\n")
@@ -398,7 +398,7 @@ def main():
             
             f.write("\nSignificance:\n")
             for name, sig in fit_result["significance"]:
-                f.write(f"{name}: {sig:.1f}σ\n")
+                f.write(f"{name}: {sig:.1f} sigma\n")
         
         output_files.append('fit_results.txt')
         print(f"   • Saved fit results: fit_results.txt")
