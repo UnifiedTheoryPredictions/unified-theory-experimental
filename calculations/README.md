@@ -1,3 +1,3 @@
 # Calculations
 
-Jupyter notebooks with derivations and numerical calculations.
+Parameter tables and derivation steps.
