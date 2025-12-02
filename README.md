@@ -34,7 +34,7 @@
 ├── lhc_analysis/          # LHC data analysis scripts for 2.3/3.1 TeV resonance searches
 ├── spectroscopy/          # IR and femtosecond simulations and protocols
 ├── protocols/            # Detailed step-by-step experimental protocols
-├── calculations/         # Jupyter notebooks with derivations
+├── calculations/         # Derivation steps and parameter tables
 ├── README.md            # This file
 ├── .gitignore           # Python ignore patterns
 └── LICENSE              # MIT License```
