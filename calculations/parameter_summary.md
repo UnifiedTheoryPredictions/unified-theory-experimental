@@ -1,6 +1,6 @@
 # Parameter Summary from Zenodo Publications
 
-## Theory Basis (from Zenodo DOI: 10.5281/zenodo.17400620)
+## Theory Basis (from Zenodo DOI: 10.5281/zenodo.17784981)
 Heterotic string compactification on Calabi-Yau manifold with:
 • Hodge numbers: h¹¹ = 6, h²¹ = 251, χ = -200
 • Regge parameter: α′ = 0.0705 ± 0.0003
