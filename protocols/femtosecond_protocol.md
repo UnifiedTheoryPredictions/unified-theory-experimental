@@ -1,7 +1,7 @@
 # FEMTOSECOND CORRELATION SPECTROSCOPY PROTOCOL
 ## For Detection of Predicted Temporal Feature at τ = 20.4 fs
 
-**Theory Reference:** Unified Theory of Fundamental Interactions (Zenodo: https://doi.org/10.5281/zenodo.17784981)
+**Theory Reference:** Unified Theory of Fundamental Interactions (Zenodo: https://doi.org/10.5281/zenodo.17400619)
 
 **Predicted Value:**
 • τ = (2.04 ± 0.02) × 10⁻¹⁴ s (20.4 femtoseconds)
