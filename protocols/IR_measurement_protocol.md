@@ -1,7 +1,7 @@
 # INFRARED SPECTROSCOPY PROTOCOL
 ## For Detection of Predicted Energy Peaks at 0.203, 0.406, 0.609 eV
 
-**Theory Reference:** Unified Theory of Fundamental Interactions (Zenodo: https://doi.org/10.5281/zenodo.17400620)
+**Theory Reference:** Unified Theory of Fundamental Interactions (Zenodo: https://doi.org/10.5281/zenodo.17784981)
 
 **Predicted Values:**
 • E₁ = 0.203 ± 0.010 eV
