@@ -1,7 +1,7 @@
 # LHC DIJET ANALYSIS PROTOCOL
 ## For Search of Predicted Resonances at 2.3 TeV and 3.1 TeV
 
-**Theory Reference:** Unified Theory of Fundamental Interactions (Zenodo: https://doi.org/10.5281/zenodo.17400620)
+**Theory Reference:** Unified Theory of Fundamental Interactions (Zenodo: https://doi.org/10.5281/zenodo.17784981)
 
 **Predicted Resonances:**
 • M_coh = 2.3 ± 0.2 TeV (scalar coherent resonance)
