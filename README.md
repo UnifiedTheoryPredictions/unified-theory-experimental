@@ -1,6 +1,6 @@
 # Experimental Protocols for Testing Unified Theory Predictions
 
-**Zenodo Preprint 1:** [UNIFIED THEORY OF FUNDAMENTAL INTERACTIONS: THREE TESTABLE PREDICTIONS FROM CALABI-YAU COMPACTIFICATION](https://doi.org/10.5281/zenodo.17784981)
+**Zenodo Preprint 1 Version v2:** [UNIFIED THEORY OF FUNDAMENTAL INTERACTIONS: THREE TESTABLE PREDICTIONS FROM CALABI-YAU COMPACTIFICATION](https://doi.org/10.5281/zenodo.17784981)
 **Zenodo Preprint 2:** [κ_q = 1.000000: The Quantum Consistency Condition Underlying Three Testable Predictions](https://doi.org/10.5281/zenodo.17438718)
 
 **Theory Basis:** Heterotic string compactification on Calabi-Yau manifold with Hodge numbers h¹¹=6, h²¹=251, χ=-200.
