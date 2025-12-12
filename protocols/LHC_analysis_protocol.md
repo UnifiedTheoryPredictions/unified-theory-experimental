@@ -367,17 +367,6 @@ ANGULAR OBSERVABLES:
 
 ---
 
-## 10. COLLABORATION CONTACTS
-
-### 10.1 CMS Collaboration
-• Dijet conveners: cms-dijet-conveners@cern.ch
-• Exotica group: cms-exotica-conveners@cern.ch
-• Open Data support: cms-opendata-support@cern.ch
-
-### 10.2 ATLAS Collaboration
-• Exotics conveners: atlas-exotics-conveners@cern.ch
-• Standard Model conveners: atlas-sm-conveners@cern.ch
-
 **Protocol Version:** 1.0  
 **Last Updated:** December 2025  
 **Contact:** adonaidabagyan@gmail.com  
